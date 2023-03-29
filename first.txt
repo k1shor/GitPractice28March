@@ -1,3 +1,7 @@
 this is first file
 kishor
+<<<<<<< HEAD
 this is another file
+=======
+prashant
+>>>>>>> 46f15f845bdea04664a4f73fd71f8e3733d6597c
